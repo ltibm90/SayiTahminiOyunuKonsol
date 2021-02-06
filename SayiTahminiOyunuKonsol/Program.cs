@@ -19,7 +19,7 @@ namespace OdevDeneme
             catch (Exception)
             {
                 Console.WriteLine("Adam gibi bir sayı girilmediği için 4 olarak baz alınacak.");
-            }
+            }   
            
             Console.WriteLine();
             if (ibasamak <= 0)
